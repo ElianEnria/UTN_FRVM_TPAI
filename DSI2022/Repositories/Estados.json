@@ -1,0 +1,17 @@
+
+
+[
+{
+"nombre":"Disponible",
+"EsActivo":true
+},
+{
+"nombre":"Reservado",
+"EsActivo":true
+},
+{
+"nombre":"PENDIENTE_CONFIRMACION",
+"EsActivo":false
+}
+
+]

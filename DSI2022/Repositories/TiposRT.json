@@ -1,0 +1,14 @@
+[
+    {
+    "nombre":"Medicion",
+    "descripcion":"Recurso utilizado para llevar a cabo la medicion de objetos"
+    },
+    {
+    "nombre":"Calculo",
+    "descripcion":"Recurso utilizado para llevar a cabo el calculo de distintos tipos de operaciones"
+    },
+    {
+    "nombre":"Documento",
+    "descripcion":"Recurso utilizado para recopilar informacion en formato papel"
+    }
+]
